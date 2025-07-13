@@ -1,0 +1,13 @@
+{
+  "name": "tv-hedge-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ccxt": "^4.4.94",
+    "express": "^4.21.2"
+  }
+}
